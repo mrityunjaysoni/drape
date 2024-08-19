@@ -19,7 +19,7 @@
 - **Tailwind CSS**
 
 ## Getting Started
-
+gi
 1. Clone the repo: git clone https://github.com/mrityunjaysoni/drape.git
 
 2. Open `index.html` in your browser.
