@@ -20,13 +20,13 @@
 
 ## Getting Started
 
-1. Clone the repo: git clone https://github.com/yourusername/drape.git
+1. Clone the repo: git clone https://github.com/mrityunjaysoni/drape.git
 
 2. Open `index.html` in your browser.
 
 ## Demo
 
-Live demo: [Drape Portfolio Demo](https://drape.vercel.app/index.html)
+Live demo: [Drape Demo](https://drape.vercel.app/index.html)
 
 
 
