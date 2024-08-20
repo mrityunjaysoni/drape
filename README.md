@@ -1,3 +1,24 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="">
+    <img src="/dist/assets/DRAPE-Visionary-Clothing.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">DRAPE</h3>
+
+  <p align="center">
+   Drape is a sleek, minimalist portfolio template designed for creatives to showcase fashion and design projects. Built with HTML, CSS, JavaScript and Tailwind CSS, it focuses on simplicity, responsiveness, and accessibility.
+    <br />
+    <br />
+    <a href="https://drape.vercel.app/index.html">View Demo</a>
+    <br />
+    <br />
+    
+  </p>
+</div>
+
+
 # Drape - Minimalist Fashion Portfolio
 
 **Drape** is a sleek, minimalist portfolio template designed for creatives to showcase fashion and design projects. Built with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**, it focuses on simplicity, responsiveness, and accessibility.
