@@ -11,7 +11,7 @@
    Drape is a sleek, minimalist portfolio template designed for creatives to showcase fashion and design projects. Built with HTML, CSS, JavaScript and Tailwind CSS, it focuses on simplicity, responsiveness, and accessibility.
     <br />
     <br />
-    <a href="https://drape.vercel.app/index.html">View Demo</a>
+    <a href="https://drape.vercel.app/index.html">View Live</a>
     <br />
     <br />
     
